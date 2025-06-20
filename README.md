@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cl-rt
 A personal GitHub repo that serves as a list of projects I've contributed to, with links and brief descriptions.
 
@@ -23,3 +24,21 @@ PacOps-DS:
 RTX: 
     - RTX-FTIRQAQC | Standardized QAQC workflow for FTIR data, based on John Carter’s framework. Includes duplicate/replicate review; modelling coming soon -> https://github.com/rio-tinto/RTX-FTIR
     - RT-VAE | Variational Autoencoder (VAE) framework for anomaly detection and reconstruction. Built for experimentation, visualization, and flexible data integration -> https://github.com/rio-tinto/rt-vae
+=======
+## Hi there 👋
+
+<!--
+**cl-rt/cl-rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> fb3c603a9e3460763853e7a41ec8d777db1a3209
